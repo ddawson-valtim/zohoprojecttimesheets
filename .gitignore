@@ -32,10 +32,10 @@ tests/_support/_generated
 #vagrant folder
 /.vagrant
 
-# config/params.php
-# config/params-local.php
-# config/test_db.php
-# config/test-local.php
+config/params.php
+config/params-local.php
+config/test_db.php
+config/test-local.php
 
 php.bat
 /.vscode
