@@ -41,7 +41,7 @@ $this->title = 'Zoho Project Timesheets';
                     <p>
                         <button class="btn btn-info" type="button" style="width: 100%; height: 6rem;" disabled >
                             <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
-                                Loading Zoho Timesheet data, please wait....
+                                Loading Zoho Timesheet data, please wait this may take a few minutes....
                         </button>
                         </p>
                 </div>
