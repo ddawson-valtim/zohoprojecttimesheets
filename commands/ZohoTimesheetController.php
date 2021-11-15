@@ -30,7 +30,7 @@ class ZohoTimesheetController extends Controller
     public function actionIndex($message = '')
     {
         echo 'Usage : ' . "\n";
-        echo 'GetZohoData(desired_month, desired_year, filename)' . "\n";
+        echo 'yii zoho-timesheet\get-zoho-data desired_month desired_year filename)' . "\n";
         echo ('filename defaults to c:\temp\ZohoTimesheetData_MMYYYYY.csv') . "\n";
 
         return ExitCode::OK;
